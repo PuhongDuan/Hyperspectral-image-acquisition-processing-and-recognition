@@ -1,5 +1,5 @@
 # Hyperspectral-image-acquisition-processing-and-recognition
-
+A list of hyperspectral image processing resources will be available soon.
 - [1 Overview and Introduction](#python)
 - [2 Hyperspectral Image Acquisition](#python)
   - [2.1 Dispersive Imaging Spectrometer](#python)
